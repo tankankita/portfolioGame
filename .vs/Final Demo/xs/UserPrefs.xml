@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{28B13951-ABC8-3B00-ECE2-5D6146E5844E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Investmenttrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StartGame.cs" Line="10" Column="12" />
+      <File FileName="Assets/Scripts/PortfolioController.cs" Line="7" Column="59" />
+      <File FileName="Assets/Scripts/Investmenttrigger.cs" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Investmenttrigger.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Resources" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0aa543a0-2b95-4803-9e88-cc117b0e1483" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

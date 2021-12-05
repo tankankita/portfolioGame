@@ -1,0 +1,4 @@
+#Sun Dec 05 15:33:58 CST 2021
+base.0=/Users/atank/OneDrive - MORNINGSTAR INC/Final Demo/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
